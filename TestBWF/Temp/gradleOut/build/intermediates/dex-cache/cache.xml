@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\Desktop\GamePrototype\TestBWF\TestBWF\Temp\gradleOut\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="e11e14bc1194514e74b50b3bfc7849d26334a549">
+        <dex dex="C:\Users\User\Desktop\GamePrototype\TestBWF\TestBWF\Temp\gradleOut\build\intermediates\pre-dexed\release\unity-classes_96db74dd21233d624998d4776ef62d6ca543b42f.jar" />
+    </item>
+
+</items>
